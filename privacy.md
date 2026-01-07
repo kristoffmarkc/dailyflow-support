@@ -1,6 +1,6 @@
 # Privacy Policy for DailyFlow
 
-**Last Updated: December 16, 2025**
+**Last Updated: January 07, 2025**
 
 ## Introduction
 
@@ -20,9 +20,13 @@ DailyFlow is designed with privacy in mind. The App:
 - Does **not** contain advertisements
 - Does **not** share any data with third parties
 
+## In-App Purchases
+
+DailyFlow offers a one-time Premium upgrade that unlocks additional features. The purchase is processed securely through Apple's App Store and StoreKit framework. We do not receive or store any payment information — all transactions are handled entirely by Apple.
+
 ## Data Storage
 
-All data you create in DailyFlow (tasks, lists, notes) is stored **locally on your device only**. This data:
+All data you create in DailyFlow (tasks, lists, diary entries, flow entries) is stored **locally on your device only**. This data:
 
 - Never leaves your device
 - Is not transmitted over the internet
@@ -45,7 +49,7 @@ DailyFlow does not knowingly collect any information from children under the age
 Since we do not collect any personal data, there is no personal information for us to access, modify, or delete. All your data is under your control on your device.
 
 To delete your data:
-- Delete individual tasks within the App
+- Delete individual tasks, diary entries, or flow entries within the App
 - Delete the App to remove all associated data
 
 ## Changes to This Privacy Policy
@@ -62,7 +66,7 @@ If you have any questions about this Privacy Policy, please contact us:
 
 ## Summary
 
-**DailyFlow collects no data. Your tasks stay on your device. It's that simple.**
+**DailyFlow collects no data. Your tasks, diary entries, and flow entries stay on your device. It's that simple.**
 
 ---
 
