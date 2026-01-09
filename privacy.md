@@ -61,7 +61,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 If you have any questions about this Privacy Policy, please contact us:
 
 - **Developer:** Kristoffer Mark
-- **Email:** kristoffermarkc@gmail.com
+- **Email:** [kristoffermarkc@gmail.com](mailto:kristoffermarkc@gmail.com)
 
 ## Summary
 
