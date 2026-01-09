@@ -60,9 +60,8 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy, please contact us:
 
-- **Developer:** kristoff
-- **Twitter/X:** [@kristoffmarkc](https://x.com/kristoffmarkc)
-- **Email:** [Contact via X/Twitter DM]
+- **Developer:** Kristoffer Mark
+- **Email:** kristoffermarkc@gmail.com
 
 ## Summary
 
